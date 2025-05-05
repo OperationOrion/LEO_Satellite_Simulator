@@ -1,0 +1,1 @@
+VALUES ('Default_User','nowhere@mail', crypt('sfhot45822nRFe3554?#$d',
